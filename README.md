@@ -1,6 +1,6 @@
 # RGAT_with_BERT
-`RGAT_Model.ipynb`是主要的代码文件，并且实验结果也在文件中输出。
+'RGAT_Model.ipynb' is the main code file, and the experiment results are also output in the file.
 
-我们的工作是在GAP整个数据集上进行的，由于在GAP整个数据集上的结果与在GAP数据集一个专门的子集上的实验结果基本一致，所以这里为了节约时间以及加快复现的速度，这里的结果只是在GAP数据集的一个专门的子集上实验得到的。如果想要在整个数据集上进行实验，只需将数据集换成整个GAP数据集即可。
+Our work is carried out on the whole GAP dataset. Because the results on the whole data set of GAP are basically consistent with the experimental results on a special subset of GAP data set, the results here are only obtained by experiments on a special subset of GAP data set in order to save time and accelerate the speed of recurrence. If you want to experiment on the entire data set, simply replace the data set with the entire GAP data set.
 
-GAP数据集的链接：https://github.com/google-research-datasets/gap-coreference
+GAP dataset download link: https://github.com/google-research-datasets/gap-coreference
