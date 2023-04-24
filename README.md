@@ -1,6 +1,6 @@
 # RGAT_with_BERT
 
-This is the repository for our IJCNN2023 paper: RGAT: A Deeper Look into Syntactic Dependency Information for Coreference Resolution, by Yuan Meng, Xuhao Pan, Jun Chang and Yue Wang.
+This is the repository for our **IJCNN2023 paper**: RGAT: A Deeper Look into Syntactic Dependency Information for Coreference Resolution, by Yuan Meng, Xuhao Pan, Jun Chang and Yue Wang.
 
 'RGAT_Model.ipynb' is the main code file, and the experiment results are also output in the file.
 
